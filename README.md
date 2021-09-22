@@ -9,6 +9,7 @@ A aplicação consiste em um Dashboard de vendas.
 ### Front-End
 - ReactJS
 - TypeScript
+- Bootstrap
 
 ## Como Executar o Projeto
 ```bash
